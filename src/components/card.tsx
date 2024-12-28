@@ -1,7 +1,7 @@
 import React from 'react'
 import Prescription from './assets/Prescription.jpeg'
 
-function card () {
+function Card () {
   return (
     <div className='Card'>
       <h2>Hi this side Pizza!!</h2>
@@ -11,4 +11,4 @@ function card () {
   )
 }
 
-export default card
+export default Card
