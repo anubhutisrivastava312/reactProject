@@ -29,5 +29,16 @@
     cursor: pointer;
 }
 
+.student{
+    color: blue;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    padding: 10px;
+    border: 1px solid ;
+    font-size: medium;
+    margin-top: auto;
 
+}
 
